@@ -1,3 +1,4 @@
 Het is zaterdagavond en ik heb een hele leuke dag gehad!
+-- nieuwe regel --
 Ik ben naar de bibliotheek geaan en heb wat leuke boeken gehaald voor deze week.
 Ik heb daar ook even gestudeerd zodat ik weer up to date ben met Programmeren Basis 1.
